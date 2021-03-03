@@ -16,6 +16,6 @@ layout: page
 <h2>Projekty</h2>
 
 <ul>
-	<li>ta strona</a></li>
-	<li>więcej w krutce</a></li>
+	<li>ta strona</li>
+	<li>więcej wkrótce</li>
 </ul>
