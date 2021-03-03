@@ -106,4 +106,10 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.discord %}
+        <a class="link" data-title= "discord.gg/{{ site.discord }}" href="https://discord.gg/{{ site.discord }}" target="_blank">
+             <svg class="icon icon-discord"><use xlink:href="#icon-discord"></use></svg>
+        </a>
+    {% endif %}
 </div>
