@@ -1,6 +1,6 @@
 # main text of home
 name: XioR112
-bio: Student, początkujący programista.
+bio: Uczeń, początkujący programista.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
+# facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -46,8 +46,8 @@ github: xior112
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-#eddit: username
-#edium: medium
+# reddit: username
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 # ail:
@@ -85,7 +85,7 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
