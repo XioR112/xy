@@ -1,16 +1,13 @@
 ---
-title: "Markdown Extra Components"
+title: "Pierwszy post"
 layout: post
-date: 2016-02-24 22:48
+date: 2021-03-04 8:20
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: XioR112
+description: First post.
 ---
 
 ## Summary:
